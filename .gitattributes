@@ -1,0 +1,7 @@
+* text=auto
+*.json text
+*.py text
+*.md text
+*.xlsx binary
+*.ods binary
+*.db binary

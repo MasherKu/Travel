@@ -1,0 +1,15 @@
+# Виртуальное окружение и IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Генерируемые артефакты (пересоздаются скриптами из beach_destinations.json)
+*.db
+*.xlsx
+*.ods
+.~lock.*
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
